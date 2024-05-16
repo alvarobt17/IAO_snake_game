@@ -1,0 +1,5 @@
+pyxel
+tensorflow
+matplotlib
+numpy
+pandas

@@ -1,0 +1,14 @@
+{
+    "NeuralNetLayers": [16, 120, 120, 4],
+    "GA": {
+        "SaveCheckpointRate": 5,
+        "Generations": 100,
+        "StepsPerGeneration": 1000,
+        "PopulationSize": 100,
+        "CrossoverAbsolute": 12,
+        "MutationRate": 0.01
+    },
+    "AIPlayer": {
+        "PenaltySteps": 50
+    }
+}
